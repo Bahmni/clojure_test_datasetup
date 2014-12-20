@@ -1,0 +1,31 @@
+[
+    {
+        "table-name": "Table Name",
+        "table-structure": [
+            {
+                "column-name": "column_1",
+                "column-datatype": "int"
+            },
+            {
+                "column-name": "column_2",
+                "column-datatype": "text"
+            },
+            {
+                "column-name": "column_3",
+                "column-datatype": "varchar(255)"
+            }
+        ],
+        "data": [
+            {
+                "column_1": 2,
+                "column_2": "Something here",
+                "column_3": "Hello"
+            },
+            {
+                "column_1": 3,
+                "column_2": "Another Thing here",
+                "column_3": "World"
+            }
+        ]
+    }
+]
