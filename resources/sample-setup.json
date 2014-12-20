@@ -1,6 +1,6 @@
 [
     {
-        "table-name": "Table Name",
+        "table-name": "table_name",
         "table-structure": [
             {
                 "column-name": "column_1",
