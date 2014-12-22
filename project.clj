@@ -14,6 +14,11 @@
             :packaging "jar"
             :aliases {"test" ["midje"]}
             :name "clojure-test-datasetup"
+            :repositories [["snapshots" {:url       "https://clojars.org/repo/"
+                                         :releases  false
+                                         :snapshots true
+                                         :username "mihirkh"
+                                         :password :env}]]
             :scm {:name                 "git"
                   :tag                  "HEAD"
                   :url                  "https://github.com/Bhamni/clojure_test_datasetup.git"
