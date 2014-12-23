@@ -13,3 +13,7 @@ Copyright © 2014 FIXME
 
 Distributed under the Affero General Public License either version 3.0 or (at
 your option) any later version.
+
+## Build Status
+
+[![Build Status](https://snap-ci.com/Bhamni/clojure_test_datasetup/branch/master/build_image)](https://snap-ci.com/Bhamni/clojure_test_datasetup/branch/master)
