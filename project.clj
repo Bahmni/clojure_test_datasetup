@@ -1,4 +1,4 @@
-(defproject org.bahmni/clojure-test-datasetup "1.0"
+(defproject org.bahmni/clojure-test-datasetup "1.1-SNAPSHOT"
             :description "Setup test data from JSON for Integration tests in Clojure. Can be used with all test frameworks."
             :url "https://github.com/Bhamni/clojure_test_datasetup"
             :license {:name "Affero General Public License,"
