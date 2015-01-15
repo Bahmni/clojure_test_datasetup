@@ -15,7 +15,7 @@
             :aliases {"test" ["midje"]}
             :name "clojure-test-datasetup"
             :repositories [["snapshots" {:url       "https://clojars.org/repo/"
-                                         :releases  false
+                                         :releases  true
                                          :snapshots true
                                          :username "mihirkh"
                                          :password :env}]]
